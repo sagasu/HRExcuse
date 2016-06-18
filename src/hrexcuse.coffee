@@ -37,7 +37,7 @@ quotes = [
   "I was hoping for a battle of wits, but you appear to be unarmed",
   "Just take a nap",
   "Let's drink",
-  "HR, HR, HR!"]
+  "Nothing"]
 
 module.exports = (robot) ->
   robot.hear /what would hr say/i, (msg) ->
